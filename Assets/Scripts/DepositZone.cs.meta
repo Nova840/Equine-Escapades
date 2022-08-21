@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2cffef52e1794e042af9d4d5ef969fbb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - depositFood: {fileID: 8300000, guid: 3861e70d9a5926f45b4b8a5411473b33, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
